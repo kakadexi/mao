@@ -74,7 +74,7 @@ var index_config_default = {
     {name: "✈️",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
     {name: "黄",
-      address: "https://xbww888.com/?url="},
+      address: "https://json.xingba222.com/api.php/provide/vod/"},
     {name: "👖裤佬丨电视丨直播",
       address: "http://zhangqun1818.serv00.net/zh/2242.php"},
     {name: "👖裤佬丨小鸭丨影视",

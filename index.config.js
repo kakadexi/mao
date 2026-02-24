@@ -74,7 +74,7 @@ var index_config_default = {
     {name: "✈️",
       address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
     {name: "黄",
-      address: "https://json.xingba222.com/api.php/provide/vod/"},
+      address: "http://zhangqun1818.serv00.net/zh/2242.php"},
     {name: "👖裤佬丨电视丨直播",
       address: "http://zhangqun1818.serv00.net/zh/2242.php"},
     {name: "👖裤佬丨小鸭丨影视",
@@ -117,8 +117,8 @@ var index_config_default = {
       address: "http://zhangqun1818.serv00.net:6628/?spider=兔小贝"}
 ]},
   cms: {list: [
-{name: "👖裤佬丨暴风丨采集",
-address: "http://by.bfzyapi.com/api.php/provide/vod"},
+{name: "采集",
+address: "https://json.xingba222.com/api.php/provide/vod/"},
 {name: "👖裤佬丨iQiYi丨采集",
 address: "https://iqiyizyapi.com/api.php/provide/vod"}
 ]},
